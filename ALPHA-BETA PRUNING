@@ -28,3 +28,4 @@ if __name__ == "__main__":
     print("The optimal value is:", minimax(0, 0, True, values, MIN, MAX))
 output:
 The optimal value is: 5
+
