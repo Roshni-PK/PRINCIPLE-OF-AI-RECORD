@@ -37,3 +37,4 @@ if __name__ == '__main__':
     g.graphColouring(m)
 OUTPUT:
 Solution exists, and the assigned colours are: 1 2 3 1
+
